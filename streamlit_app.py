@@ -1379,7 +1379,7 @@ def main():
             st.markdown(create_download_link(JS_CONTENT, "script.js", "application/javascript"), unsafe_allow_html=True)
         
         with col4:
-            readme_content = '''# Data Scientist Portfolio Website
+            readme_content = '''# Data Scientist Portfolio Website'''
 
 A modern, responsive portfolio website for data scientists with animated features, dark theme, and professional design.
 
@@ -1420,4 +1420,3 @@ A modern, responsive portfolio website for data scientists with animated feature
 - **Netlify**: Drag & drop deployment
 - **Vercel**: One-click deployment
 
-## File Structure
