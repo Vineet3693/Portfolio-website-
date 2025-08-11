@@ -1379,43 +1379,8 @@ def main():
             st.markdown(create_download_link(JS_CONTENT, "script.js", "application/javascript"), unsafe_allow_html=True)
         
         with col4:
-            readme_content = '''# Data Scientist Portfolio Website'''
+            readme_content = '''# Data Scientist Portfolio Website
 
-A modern, responsive portfolio website for data scientists with animated features, dark theme, and professional design.
+A modern, responsive portfolio website for data scientists with animated features, dark theme, and professional design.'''
 
-## Features
-
-- **Responsive Design**: Works perfectly on all devices
-- **Animated Welcome Section**: Eye-catching animations
-- ** 3 D Profile Image**: Floating profile image with effects
-- **Skills Visualization**: Animated progress bars
-- **Project Showcase**: Professional project cards
-- **Dark Theme**: Modern dark background with neon accents
-
-## Technologies Used
-
-- HTML5
-- CSS3 (Grid, Flexbox, Animations)
-- Vanilla JavaScript (ES6+)
-- Font Awesome Icons
-- Google Fonts (Poppins)
-
-## Installation
-
-1. Download all files
-2. Save them in a folder
-3. Open `index.html` in your browser
-
-## Customization
-
-### Personal Information
-- Replace "Your Name" with your actual name
-- Update contact information
-- Add your projects and experience
-- Replace profile placeholder with your photo
-
-### Deployment Options
-- **GitHub Pages**: Free hosting
-- **Netlify**: Drag & drop deployment
-- **Vercel**: One-click deployment
 
