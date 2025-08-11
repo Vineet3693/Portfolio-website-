@@ -1387,8 +1387,7 @@ A modern, responsive portfolio website for data scientists with animated feature
 
 - **Responsive Design**: Works perfectly on all devices
 - **Animated Welcome Section**: Eye-catching animations
-- **3D Profile Image**: Floating profile image with effects
-- **Interactive Navigation**: Smooth scrolling navigation
+- ** 3 D Profile Image**: Floating profile image with effects
 - **Skills Visualization**: Animated progress bars
 - **Project Showcase**: Professional project cards
 - **Dark Theme**: Modern dark background with neon accents
