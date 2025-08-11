@@ -1370,13 +1370,6 @@ def main():
 </body>
 </html>'''
             
-            st.markdown(create_download_link(html_separate, "index.html", "text/html"), unsafe_allow_html=True)
-        
-        with col2:
-            st.markdown(create_download_link(CSS_CONTENT, "styles.css", "text/css"), unsafe_allow_html=True)
-        
-        with col3:
-            st.markdown(create_download_link(JS_CONTENT, "script.js", "application/javascript"), unsafe_allow_html=True)
         
    
 
